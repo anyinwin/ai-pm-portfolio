@@ -40,7 +40,3 @@ and billing documents
 repeatedly
 - Cost map: visualize expected costs by provider type and location based on 
 symptoms
-
----
-*Built by Annhien Nguyen as part of an AI PM portfolio targeting 
-Research PM roles in AI. February 2026.*

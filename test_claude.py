@@ -1,6 +1,4 @@
 import anthropic
-
-import anthropic
 import os
 
 client = anthropic.Anthropic(api_key=os.environ.get("ANTHROPIC_API_KEY"))

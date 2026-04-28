@@ -1,4 +1,6 @@
 # PatientGuide
+AI PM learning portfolio - experiments and product thinking while developing PatientGuide, a healthcare cost navigation tool. Includes API experiments on temperature, token counting, context windows, and model comparisons.
+
 ### AI-powered healthcare navigation for people who are tired of getting burned
 
 ---
